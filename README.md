@@ -18,7 +18,7 @@ Data source :  https://www.kaggle.com/datasets/ak0212/new-zealand-cancer-patient
 *   `Survival_Years`
 *   `Status` (Alive/Deceased)
 
-## Tech Stack 🛠️
+## Tech Stack 
 
 *   **Python
 *   **Pandas
