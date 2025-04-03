@@ -20,10 +20,10 @@ Data source :  https://www.kaggle.com/datasets/ak0212/new-zealand-cancer-patient
 
 ## Tech Stack 🛠️
 
-*   **Python:**
-*   **Pandas:**
-*   **NumPy:** 
-*   **Matplotlib / Seaborn:** 
-*   **Jupyter Notebook:**
+*   **Python
+*   **Pandas
+*   **NumPy
+*   **Matplotlib / Seaborn
+*   **Jupyter Notebook
 
 
